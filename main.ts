@@ -1,3 +1,3 @@
 while (true) {
-    light.showAnimation(light.rainbowAnimation, 500)
+    light.showAnimation(light.rainbowAnimation, 5000)
 }
